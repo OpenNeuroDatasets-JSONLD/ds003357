@@ -46,7 +46,8 @@
                 "26",
                 "51",
                 "23"
-            ]
+            ],
+            "VariableType": "Categorical"
         }
     },
     "age": {
@@ -59,7 +60,7 @@
                 "TermURL": "nb:ParticipantID",
                 "Label": ""
             },
-            "Identifies": "participant"
+            "VariableType": "Identifier"
         },
         "Description": "There should have been a description here, but there wasn't. :("
     }
